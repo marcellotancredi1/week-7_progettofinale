@@ -1,0 +1,21 @@
+/* USATO CSS E NON SASS DATA LA SCARNA GRAFICA DELL'ESERCIZIO */
+
+body{
+    margin: 5em;
+    width: 80%;
+}
+
+.card {
+    width: 100%;
+    display: flex;
+    flex-wrap:nowrap;
+    text-align: center;
+}
+
+.card img {
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid black ;
+    margin: 2em;
+    margin-bottom: 0.8em;
+}
